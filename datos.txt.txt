@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Agustin Rivola
 ip :192.168.2.94
 11:33
+=======
+Lucas Carbone 192.168.2.101 11:26
+>>>>>>> d91efa147b9a89165e7d1ea00896eb228e9a53c9
