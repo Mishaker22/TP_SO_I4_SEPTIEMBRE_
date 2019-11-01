@@ -1,12 +1,13 @@
 # TP_SO_I4_SEPTIEMBRE_
 
-¿ se pueden mantener los dos datos?¿Como?
+**Â¿Se pueden mantener los dos datos?Â¿Como?**
+
 
 Se pueden utilizando desde la rama master, el comando git merge "ElNombreDeLaRama". luego el otro repositorio
 
 debera realizar un git pull del repositorio original para que sea fusionado posteriormente.
 
-¿ se pueden mantener los dos datos sólo de un ALFA o BETA ?¿Como?
+**Â¿ se pueden mantener los dos datos sÃ³lo de un ALFA o BETA ?Â¿Como?**
 
 Para obtener los datos solo de unos de los repositorios, ya sea solo de beta, o solo de Alfa,
 
