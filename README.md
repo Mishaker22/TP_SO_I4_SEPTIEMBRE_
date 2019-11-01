@@ -10,4 +10,4 @@ debera realizar un git pull del repositorio original para que sea fusionado post
 
 Para obtener los datos solo de unos de los repositorios, ya sea solo de beta, o solo de Alfa,
 
-hay que hacer un merge por separado de cada usuario y asi solo tenemos datos de un repositorio.
+hay que hacer un merge al usuario que queramos mantener.
